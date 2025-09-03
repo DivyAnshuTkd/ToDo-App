@@ -1,4 +1,4 @@
-export function CreateTodo()
+export function CreateTodo()        // Assume this is a function which return HTML(Actually it is XML but just for understanding)
 {
     return <div>
         <input style = {{
